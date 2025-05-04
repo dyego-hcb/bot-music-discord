@@ -7,7 +7,7 @@ load_dotenv()
 config = {
     "app": {
         "token": os.getenv("DISCORD_TOKEN"),
-        "playing": "by Nome Bot ❤️",
+        "playing": "by BOT NAME ❤️",
         "global": True,
         "guild": os.getenv("GUILD"),
         "extraMessages": False,
