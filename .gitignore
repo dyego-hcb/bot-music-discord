@@ -1,0 +1,42 @@
+# Ambiente virtual
+bot_musica/
+*.py[cod]
+__pycache__/
+*.so
+
+# Configurações locais
+.env
+*.env
+config.json
+settings.json
+
+# Logs
+*.log
+nohup.out
+
+# Cache do Python
+.pytest_cache/
+.cache/
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Arquivos do sistema
+*.bak
+*.old
+*~
+
+# Distribuição/Build
+dist/
+build/
+*.egg-info/
